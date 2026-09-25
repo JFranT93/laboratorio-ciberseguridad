@@ -19,3 +19,16 @@ A través de NAT, la máquina invitada tiene salida a Internet para descargar ac
 
 ### Evidencia de Windows Update
 ![Windows Update al Dia](03_actualizaciones_al_dia_Windows_11.png).
+
+
+## 3. Capa Linux: Permisos y Gestión
+
+### Evidencia Permisos Archivo_Seguro Kali
+
+![Permisos por Consola](04_Permisos_archivo_Kali.png).
+
+### Evidencia Updates Kali
+
+![Comando sudo apt update](05_Actualizaciones_Kali.png)
+
+## 4. La Red de Seguridad: Snapshot Inicial
