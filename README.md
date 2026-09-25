@@ -32,3 +32,6 @@ A través de NAT, la máquina invitada tiene salida a Internet para descargar ac
 ![Comando sudo apt update](05_Actualizaciones_Kali.png)
 
 ## 4. La Red de Seguridad: Snapshot Inicial
+
+### Evidencia Snapshot Clean Install - Hardening applied
+![Snapshot Inicial](06_Snapshot.png)
