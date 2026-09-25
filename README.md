@@ -15,3 +15,7 @@ A través de NAT, la máquina invitada tiene salida a Internet para descargar ac
 ## 2. Capa Windows: Usuarios y Actualizaciones
 
 ### Evidencia de Usuarios
+![Permisos Usuarios Windows](02_configuracion_Permisos_de_Usuarios_windows_11.png).
+
+### Evidencia de Windows Update
+![Windows Update al Dia](03_actualizaciones_al_dia_Windows_11.png).
