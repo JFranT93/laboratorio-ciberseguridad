@@ -4,7 +4,7 @@
 ## 1. La Fundación: VirtualBox y Red Aislada
 
 ### Evidencia de Configuración
-![Configuracion de Red](01_configuracion_red_Windows_11.png)
+![Configuracion de Red](01_configuracion_red.png)
 
 ### Justificación Técnica
 Para este laboratorio se configuró la interfaz de red en modo **NAT (Network Address Translation)**. Se optó por esta modalidad ya que actúa como una capa de intermediación y aislamiento entre la máquina virtual y la red física del Host. 
